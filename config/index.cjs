@@ -21,12 +21,12 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '蒋小姐',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oc_Hd6tgV0a-MJ0iDH7cXvQF0_Uk',
+      id: 'oc_Hd6uRkWAtGIFlYjuHAY6stmcM',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '2yEAya5uPkMZOAqGuvMuZRVWRUCoPDWd1iU7IwEa74s',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '11-09',
-      openUrl: 'https://weibo.com/newlogin?tabtype=search&openLoginLayer=0&url=https%3A%2F%2Fwww.weibo.com%2F',
+      openUrl: 'https://weibo.com/',
         SWITCH: {
     /** 每日天气 */
     weather: true,
