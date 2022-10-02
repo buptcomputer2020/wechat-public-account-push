@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oc_Hd6uRkWAtGIFlYjuHAY6stmcM',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '2yEAya5uPkMZOAqGuvMuZRVWRUCoPDWd1iU7IwEa74s',
+      useTemplateId: 'L7Qx8jElm5gPb1kJUDUTDB6Ny04M6V2uAS9tlxNXBno',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '11-09',
       openUrl: 'https://weibo.com/',
