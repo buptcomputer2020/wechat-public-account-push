@@ -23,17 +23,49 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oc_Hd6tgV0a-MJ0iDH7cXvQF0_Uk',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'dXslYPWo3cvDpolR9NB3yWwh5AV8x0Nto8GRoxm0nsA',
+      useTemplateId: '2yEAya5uPkMZOAqGuvMuZRVWRUCoPDWd1iU7IwEa74s',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '11-09',
+      openUrl: 'https://weibo.com/newlogin?tabtype=search&openLoginLayer=0&url=https%3A%2F%2Fwww.weibo.com%2F',
+        SWITCH: {
+    /** 每日天气 */
+    weather: true,
+
+    /** 节假日 */
+    // 下一休息日综合提醒
+    holidaytts: true,
+
+    /** 每日N句 */
+    // 金山每日一句
+    CIBA: true,
+    // 每日一言
+    oneTalk: false,
+    // 土味情话(彩虹屁)
+    earthyLoveWords: false,
+    // 朋友圈文案
+    momentCopyrighting: false,
+    // 毒鸡汤
+    poisonChickenSoup: false,
+    // 古诗古文
+    poetry: false,
+
+    /** 星座运势 */
+    horoscope: true,
+
+    /** 生日消息和节日消息 */
+    birthdayMessage: true,
+
+    // 学生课表
+    courseSchedule: false,
+  },
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '宝贝', year: '1998', date: '09-21',
+          type: '*生日', name: '蒋小姐', year: '1998', date: '09-21',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '*生日', name: '李四', year: '1997', date: '09-29',
+          type: '*生日', name: '程少爷', year: '1997', date: '09-29',
         },
        
       ],
