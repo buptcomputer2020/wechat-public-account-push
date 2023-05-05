@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oc_Hd6uRkWAtGIFlYjuHAY6stmcM',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'L7Qx8jElm5gPb1kJUDUTDB6Ny04M6V2uAS9tlxNXBno',
+      useTemplateId: 'CzPHSYfQ8JT_ZGLH_gsj9WtAJVXlPHRVzzcB3jP2PtM',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '11-09',
       openUrl: 'https://weibo.com/',
@@ -83,7 +83,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oc_Hd6tgV0a-MJ0iDH7cXvQF0_Uk',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'L7Qx8jElm5gPb1kJUDUTDB6Ny04M6V2uAS9tlxNXBno',
+      useTemplateId: 'CzPHSYfQ8JT_ZGLH_gsj9WtAJVXlPHRVzzcB3jP2PtM',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '11-09',
       openUrl: 'https://weibo.com/',
@@ -141,15 +141,15 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'UimouxWLaD5nZXeDqqCRoEur9Vwr88MpYKIYQHHLzkw',
+  //CALLBACK_TEMPLATE_ID: 'UimouxWLaD5nZXeDqqCRoEur9Vwr88MpYKIYQHHLzkw',
 
-  CALLBACK_USERS: [
-    {
-      name: '自己',
+  //CALLBACK_USERS: [
+   // {
+   //   name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oc_Hd6tgV0a-MJ0iDH7cXvQF0_Uk',
-    }
-  ],
+     // id: 'oc_Hd6tgV0a-MJ0iDH7cXvQF0_Uk',
+   // }
+ // ],
 
 }
 
